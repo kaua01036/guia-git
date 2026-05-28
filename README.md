@@ -1,6 +1,6 @@
 # Guia Git
 
-Projeto para aprender Git.
+Projeto para estudar versionamento com Git.
 
 ## Objetivo
 
