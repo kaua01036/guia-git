@@ -8,3 +8,9 @@ Aprender Git e GitHub.
 ## Instalação
 
 Instale o Git pelo site oficial.
+## Exemplos
+
+git status
+git add .
+git commit
+git push
